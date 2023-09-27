@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Allura&family=Architects+Daughter&family=Blaka+Hollow&family=Cinzel:wght@400;500;700&family=Comfortaa:wght@300;400;600&family=DM+Serif+Display&family=Dancing+Script:wght@400;600&family=GFS+Didot&family=Lexend+Exa:wght@300;400&family=Lobster&family=Merriweather+Sans:wght@300;400&family=Montserrat:wght@300;400;700;900&family=Noto+Serif+Georgian:wght@300;400;500&family=Oswald:wght@300;400;500;700&family=Pacifico&family=Poppins:wght@100;200;300;400;600&family=Raleway:wght@300;400&family=Righteous&family=Rubik:wght@400;500;700&family=Sacramento&family=Ubuntu:wght@300;400;500;700&family=Vollkorn:wght@400;500;600&family=Yeseva+One&display=swap');
+
+body {
+    margin : 0 ;
+    width : 100%  ;
+    background-color : #242424 ;
+    color : white ; 
+    font-family: 'Poppins';
+}
+
+.brand {
+   font-family : 'Abril Fatface'
+}
+
+input::placeholder {
+    color : white ; 
+}
+
+textarea::placeholder {
+    color:white ;
+}
+
+textarea {
+    resize : none ;
+    
+}
+
+a {
+    text-decoration: none;
+    color :white ;
+}
